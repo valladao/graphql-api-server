@@ -1,0 +1,25 @@
+{
+  "name": "graphql-api-server",
+  "version": "1.0.0",
+  "description": "BOOTCAMP PROJECT: Build a GraphQL API with Node.js and Express In this project we’re going to create a GraphQL server, using a very simple setup so you understand what is going on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valladao/graphql-api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valladao/graphql-api-server/issues"
+  },
+  "homepage": "https://github.com/valladao/graphql-api-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}
